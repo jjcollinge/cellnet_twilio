@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say>Hello John, I know what you did last summer</Say>
+    <Say voice="alice">Hello John</Say>
+    <Pause length="1"/>
+    <Say voice="alice">I know what you did last summer</Say>
 </Response>
